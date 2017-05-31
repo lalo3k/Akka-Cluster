@@ -2,18 +2,13 @@
 
 namespace Shared
 {
-    public class WorkMessage
+    public class CalculateAmicableNumbers
     {
-        public WorkMessage(string message)
+        public CalculateAmicableNumbers(int number)
         {
-            Message = message;
+            Number = number;
         }
 
-        public string Message { get; private set; }
-
-        public override string ToString()
-        {
-            return Message;
-        }
+        public int Number { get; private set; }
     }
 }

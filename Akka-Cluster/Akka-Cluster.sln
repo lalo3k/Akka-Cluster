@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manager", "Manager\Manager.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{4554CF75-992E-402B-934E-93C53DB21719}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleverWorker", "CleverWorker\CleverWorker.csproj", "{6A57388E-0C7E-430F-B53C-2B267AFB0C44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{4554CF75-992E-402B-934E-93C53DB21719}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4554CF75-992E-402B-934E-93C53DB21719}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4554CF75-992E-402B-934E-93C53DB21719}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A57388E-0C7E-430F-B53C-2B267AFB0C44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A57388E-0C7E-430F-B53C-2B267AFB0C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A57388E-0C7E-430F-B53C-2B267AFB0C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A57388E-0C7E-430F-B53C-2B267AFB0C44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
